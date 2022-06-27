@@ -1,0 +1,1513 @@
+2022-06-09 10:20:54.639805
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'Y']
+batch size 128
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 33.18211276980862
+
+2022-06-09 10:42:51.595997
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'Y']
+batch size 128
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 33.18211276980862
+
+2022-06-09 10:44:30.983590
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'Y']
+batch size 128
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 33.18211276980862
+
+2022-06-09 10:45:24.322851
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'Y']
+batch size 128
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 33.18211276980862
+
+2022-06-09 14:21:14.758662
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.1, 0.1]
+top1 accuracy 34.8671419288304
+
+2022-06-09 14:25:59.200729
+shift D1-D3
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.1, 0.1]
+top1 accuracy 31.173039532140407
+
+2022-06-09 14:29:02.286795
+shift D2-D1
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.1, 0.1]
+top1 accuracy 36.6169799086496
+
+2022-06-09 14:32:46.835254
+shift D2-D3
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.1, 0.1]
+top1 accuracy 34.709418870547495
+
+2022-06-09 14:36:04.581653
+shift D3-D1
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.1, 0.1]
+top1 accuracy 33.89500971884984
+
+2022-06-09 14:40:53.748742
+shift D3-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.1, 0.1]
+top1 accuracy 39.23847692791589
+
+2022-06-09 14:45:52.114146
+shift D3-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 38.15631264971349
+
+2022-06-09 14:50:51.765185
+shift D3-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 38.5571142529199
+
+2022-06-09 14:57:26.931792
+shift D2-D1
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 36.42255346665348
+
+2022-06-09 15:06:08.456879
+shift D2-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 34.86973948048685
+
+2022-06-09 15:09:40.916655
+shift D3-D1
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 32.27478937073644
+
+2022-06-09 15:11:32.264494
+shift D3-D1
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 34.4134802320756
+
+2022-06-09 15:15:43.528462
+shift D2-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 34.94989976749152
+
+2022-06-09 15:18:05.927508
+shift D2-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 34.18837678637915
+
+2022-06-09 15:20:09.432910
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 35.320803628057455
+
+2022-06-09 15:22:10.369498
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 34.73752430206912
+
+2022-06-09 15:28:12.346892
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.1, 0.1]
+top1 accuracy 35.90408295775418
+
+2022-06-10 13:25:09.569797
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.3]
+top1 accuracy 36.26666702270508
+
+2022-06-10 13:26:32.714382
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.3]
+top1 accuracy 36.26666702270508
+
+2022-06-10 13:32:15.045654
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.3]
+top1 accuracy 36.26666702270508
+
+2022-06-10 13:33:12.771051
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 13:47:14.202765
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 13:48:20.752087
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 36.39999994913737
+
+2022-06-10 13:50:34.666356
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 13:51:44.118893
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.75, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 13:53:19.186825
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.0, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 14:00:36.227289
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.5, 0.0, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 14:02:26.286429
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.0, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 14:03:53.230928
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.0, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 14:05:55.195221
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 14:07:07.401757
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 256
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.75, 0.75]
+top1 accuracy 36.26666702270508
+
+2022-06-10 14:09:34.554219
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 256
+epochs 30
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.75, 0.75]
+top1 accuracy 37.20000040690104
+
+2022-06-10 14:11:10.826269
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 256
+epochs 30
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.75, 0.75]
+top1 accuracy 37.20000040690104
+
+2022-06-10 16:30:41.608134
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 100
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 36.00000005086263
+
+2022-06-10 16:34:57.020105
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 100
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.733333384195966
+
+2022-06-10 16:40:31.851829
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.20000020345052
+
+2022-06-10 16:42:30.499083
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 37.8666667175293
+
+2022-06-10 16:46:02.782732
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 256
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 38.133333384195964
+
+2022-06-10 16:47:12.888550
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 1.5]
+top1 accuracy 37.8666667175293
+
+2022-06-10 16:48:05.745460
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 0.0]
+top1 accuracy 38.133333384195964
+
+2022-06-10 16:48:38.173171
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 10.0]
+top1 accuracy 38.133333384195964
+
+2022-06-10 16:49:09.882403
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 256
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 100.0]
+top1 accuracy 37.20000005086263
+
+2022-06-10 16:54:19.090646
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 50
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 35.60000020345052
+
+2022-06-10 16:55:07.605475
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 38.266666615804034
+
+2022-06-10 16:56:09.458860
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 38.266666615804034
+
+2022-06-10 16:58:00.347763
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+top1 accuracy 0.31498806413241354
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 38.266666615804034
+top5 accuracy 80.66666666666667
+validation loss 2.0145555775960284
+
+2022-06-10 17:03:06.421065
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 2
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+top1 accuracy 2.065421086507267
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 27.733333409627278
+top5 accuracy 91.33333404541015
+validation loss 2.060946498235067
+
+2022-06-10 17:03:55.720533
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+top1 accuracy 0.8284628588274092
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 34.26666702270508
+top5 accuracy 90.8
+validation loss 1.8827709544499716
+
+2022-06-10 17:08:28.718579
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+top1 accuracy 0.007807472762389185
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 37.46666661580404
+top5 accuracy 80.00000061035156
+validation loss 3.2710865001678466
+
+2022-06-10 17:09:35.715317
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+top1 accuracy 0.017665503313614037
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.86666702270508
+top5 accuracy 84.40000081380208
+validation loss 2.2722388235727946
+
+2022-06-10 17:10:53.883085
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.017650517144337616
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.86666702270508
+top5 accuracy 84.40000081380208
+validation loss 2.2718435713450114
+
+2022-06-10 17:13:01.021041
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 50
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.008856665871781494
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.46666692097982
+top5 accuracy 87.73333363850911
+validation loss 3.2616936944325765
+
+2022-06-10 17:14:50.891079
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 50
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.00891706324288077
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.46666692097982
+top5 accuracy 87.73333363850911
+validation loss 3.2650432656606037
+
+2022-06-10 17:17:52.721763
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 50
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.00889909404558712
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.46666692097982
+top5 accuracy 87.73333363850911
+validation loss 3.258847162882487
+
+
+
+
+2022-06-10 17:19:11.263196
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.03639103662722387
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.20000035603841
+top5 accuracy 85.33333404541015
+validation loss 2.109677452087402
+
+2022-06-10 17:26:07.551046
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.13833049241977316
+loss_weights [0, 15.0, 15.0]
+top1 accuracy 37.60000005086263
+top5 accuracy 81.06666748046875
+validation loss 2.513942710240682
+
+2022-06-10 17:32:54.931561
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.09463643943208885
+loss_weights [0, 15.0, 16.0]
+top1 accuracy 36.00000025431315
+top5 accuracy 84.0000005086263
+validation loss 2.161859287261963
+
+2022-06-10 17:35:56.364969
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.01648993895172455
+loss_weights [1.5, 15.0, 17.0]
+top1 accuracy 37.8666667175293
+top5 accuracy 81.73333414713542
+validation loss 2.9831683387756347
+
+2022-06-10 17:37:47.232008
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.016676781508330393
+loss_weights [1.5, 15.0, 0.75]
+top1 accuracy 37.99999989827474
+top5 accuracy 82.13333414713541
+validation loss 2.983364273071289
+
+2022-06-10 17:38:48.318365
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.01650612612634569
+loss_weights [1.5, 0.5, 0.75]
+top1 accuracy 38.13333353678385
+top5 accuracy 82.00000081380209
+validation loss 2.984756445566813
+
+2022-06-10 17:43:33.395143
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.01747106719214037
+loss_weights [0.1, 0.5, 0.75]
+top1 accuracy 37.99999989827474
+top5 accuracy 82.93333414713541
+validation loss 2.821736260732015
+
+2022-06-10 17:46:53.548668
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'Y', 'Y']
+batch size 128
+epochs 10
+attention mechanism general
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.013736095779218692
+loss_weights [0.1, 0.5, 0.75]
+top1 accuracy 34.00000025431315
+top5 accuracy 83.99999989827474
+validation loss 3.5784146614074706
+
+2022-06-10 17:48:17.897729
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'Y', 'Y']
+batch size 128
+epochs 10
+attention mechanism general
+learning rate 0.003
+beta 0.75
+gamma 1.0
+train loss 0.013022175332747415
+loss_weights [0.1, 0.5, 0.75]
+top1 accuracy 30.13333356221517
+top5 accuracy 80.13333343505859
+validation loss 8.810946784973144
+
+2022-06-10 17:48:49.980618
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'Y', 'Y']
+batch size 128
+epochs 10
+attention mechanism general
+learning rate 0.003
+beta 0.75
+gamma 0.0
+train loss 0.013909133722159435
+loss_weights [0.1, 0.5, 0.75]
+top1 accuracy 33.60000025431315
+top5 accuracy 83.86666737874349
+validation loss 3.5057889881134034
+
+2022-06-10 17:49:47.250819
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'Y', 'Y']
+batch size 128
+epochs 10
+attention mechanism general
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.023048247405637493
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 30.000000127156575
+top5 accuracy 81.86666737874349
+validation loss 4.658096405029297
+
+2022-06-10 17:52:28.082986
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'Y', 'Y']
+batch size 128
+epochs 70
+attention mechanism general
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.00816293226824186
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 35.73333323160807
+top5 accuracy 81.33333404541015
+validation loss 3.832433239618937
+
+2022-06-10 17:54:59.930066
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 70
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.004243478878978845
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 36.5333332824707
+top5 accuracy 80.93333384195964
+validation loss 3.7691689389546714
+
+2022-06-11 08:05:54.581797
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 100
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.002729173788314351
+loss_weights [1.0, 1.0, 1.0]
+top1 accuracy 35.46666692097982
+top5 accuracy 79.19999989827474
+validation loss 3.9917863947550454
+
+2022-06-11 08:09:16.932853
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 100
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.0028675430136227563
+loss_weights [1.0, 1.0, 1.0]
+top1 accuracy 35.333333587646486
+top5 accuracy 79.60000030517578
+validation loss 3.9777362887064616
+
+2022-06-11 08:36:54.759822
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 1
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+best params dict_items([('beta', 0.1740269564788004), ('loss', 0.144225908847322)])
+best accuracy 37.466667073567706
+
+
+
+
+2022-06-11 08:38:41.686252
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.03639103662722387
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 35.20000035603841
+top5 accuracy 85.33333404541015
+validation loss 2.109677452087402
+
+2022-06-11 08:41:42.472107
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+best params dict_items([('beta', 0.1740269564788004), ('loss', 0.144225908847322)])
+best accuracy 37.33333343505859
+
+2022-06-11 08:45:04.035470
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+best params dict_items([('beta', 0.1740269564788004), ('loss', 0.144225908847322)])
+best accuracy 37.33333343505859
+
+2022-06-11 08:46:03.396452
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.01648993895172455
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 37.8666667175293
+top5 accuracy 81.73333414713542
+validation loss 2.9831683387756347
+
+2022-06-11 08:49:31.429370
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+best params dict_items([('beta', 0.6133251125387863), ('loss', 0.1835145039812298)])
+best accuracy 38.40000025431315
+
+2022-06-11 08:53:05.075961
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+best params dict_items([('beta', 0.6517579451037164), ('loss', 0.6900840948480067)])
+best accuracy 38.533333485921226
+
+2022-06-11 08:56:24.518364
+shift D1-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+best params dict_items([('beta', 0.13834149324316608), ('loss', 0.12936571438560424)])
+best accuracy 38.13333333333333
+
+
+
+
+2022-06-11 09:04:34.275826
+shift D1-D3
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+train loss 0.040453352850130915
+loss_weights [0, 0.5, 0.75]
+top1 accuracy 29.36344989565119
+top5 accuracy 83.9835730676044
+validation loss 2.227188562710427
+
+2022-06-11 09:08:26.106908
+shift D1-D3
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+best params dict_items([('beta', 0.13834149324316608), ('loss', 0.12936571438560424)])
+best accuracy 32.03285423294475
+
+2022-06-11 09:11:56.525710
+shift D1-D3
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta 0.75
+gamma 0.003
+best params dict_items([('beta', 0.13834149324316608), ('loss', 0.12936571438560424)])
+best accuracy 32.03285423294475
+
+2022-06-11 09:14:24.192653
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.75, 0.75, 0.75]
+gamma 0.003
+train loss 0.018534675471083884
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 30.28747432481582
+top5 accuracy 74.8459962378782
+validation loss 2.986881098952871
+
+2022-06-11 09:18:21.194743
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.75, 0.75, 0.75]
+gamma 0.003
+best params dict_items([('beta', 0.8383391046426965), ('loss', 0.44429462843494794)])
+best accuracy 31.930184918507415
+
+2022-06-11 09:24:08.416513
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.75, 0.75, 0.75]
+gamma 0.003
+best params dict_items([('beta', 0.8383391046426965), ('loss', 0.44429462843494794)])
+best accuracy 31.622176704955052
+
+2022-06-11 09:28:09.206085
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.75, 0.75, 0.75]
+gamma 0.003
+best params dict_items([('beta', 0.6133251125387863), ('loss', 0.1835145039812298)])
+best accuracy 32.34086262665735
+
+2022-06-11 09:41:27.094295
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 50
+attention mechanism none
+learning rate 0.003
+beta [0.75, 0.75, 0.75]
+gamma 0.003
+train loss 0.02988365676184019
+loss_weights [0.75, 0.5, 0.75]
+top1 accuracy 28.131416923945935
+top5 accuracy 77.20739262011017
+validation loss 4.264920624374609
+
+
+
+
+
+
+2022-06-11 09:58:01.912438
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.01848596181269018
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 30.39014372933327
+top5 accuracy 74.8459962535443
+validation loss 2.983176558414279
+
+2022-06-11 09:59:03.841662
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.018525041197984926
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 30.39014372933327
+top5 accuracy 75.15400445143055
+validation loss 2.980589778026761
+
+2022-06-11 10:00:21.483799
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.01867552566850873
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 30.08213551578091
+top5 accuracy 74.64065742884328
+validation loss 2.9726446898810917
+
+2022-06-11 10:01:08.933767
+shift D1-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.018534675471083884
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 30.28747432481582
+top5 accuracy 74.8459962378782
+validation loss 2.986881098952871
+
+2022-06-11 10:04:10.026805
+shift D2-D1
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.016347276398155183
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 34.252873554448975
+top5 accuracy 82.75862081242704
+validation loss 2.631189710244365
+
+2022-06-11 10:04:48.737395
+shift D2-D1
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.016417879087347067
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 33.793103439506446
+top5 accuracy 82.52873575495578
+validation loss 2.6430165252466313
+
+2022-06-11 10:05:22.536646
+shift D2-D1
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.016254215985922867
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 34.252873554448975
+top5 accuracy 82.75862088258239
+validation loss 2.634330033159804
+
+2022-06-11 10:05:57.283458
+shift D2-D1
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.016293222947759593
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 33.793103439506446
+top5 accuracy 82.52873575495578
+validation loss 2.6436355475721687
+
+2022-06-11 10:07:51.998872
+shift D2-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.010270364458984388
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 37.88501047059985
+top5 accuracy 83.9835730989366
+validation loss 2.5051082149912935
+
+2022-06-11 10:10:27.340986
+shift D2-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.010280804588032032
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 37.88501047059985
+top5 accuracy 83.9835730989366
+validation loss 2.5051445735798237
+
+2022-06-11 10:11:30.733389
+shift D2-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.010319075033904794
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 37.7823410660824
+top5 accuracy 84.18891189230541
+validation loss 2.5054274922278874
+
+2022-06-11 10:12:23.147682
+shift D2-D3
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+batch size 128
+epochs 10
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.01046623733111159
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 37.88501047059985
+top5 accuracy 84.08624250345406
+validation loss 2.474952983660375
+
+2022-06-11 10:18:38.092692
+shift D3-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 50
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.6]
+gamma 0.003
+train loss 0.0066479196481757565
+loss_weights [0.13, 0.7, 0.18]
+top1 accuracy 39.06666707356771
+top5 accuracy 86.0000005086263
+validation loss 3.330142386118571
+
+2022-06-11 10:26:50.522241
+shift D1-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 20
+attention mechanism none
+learning rate 0.003
+beta [0.75, 0.75, 0.75]
+gamma 0.003
+best params dict_items([('beta', 0.2563802501908146), ('loss', 0.4616360050706382)])
+best accuracy 36.80000010172526
+
+2022-06-11 10:28:34.723516
+shift D3-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 17
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.46]
+gamma 0.003
+train loss 0.012723944245469953
+loss_weights [0.13, 0.7, 0.26]
+top1 accuracy 39.46666666666667
+top5 accuracy 86.53333353678386
+validation loss 2.871610590616862
+
+2022-06-11 10:29:43.042971
+shift D3-D2
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+batch size 128
+epochs 18
+attention mechanism none
+learning rate 0.003
+beta [0.14, 0.65, 0.46]
+gamma 0.003
+train loss 0.009065181559291416
+loss_weights [0.13, 0.7, 0.26]
+top1 accuracy 38.79999994913737
+top5 accuracy 85.86666717529297
+validation loss 2.876548324584961
+
+2022-06-11 10:37:27.850588
+shift D3-D2
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+batch size 128
+epochs 18
+attention mechanism none
+learning rate 0.003
+beta [0.75, 0.75, 0.75]
+gamma 0.003
+best params dict_items([('beta', 0.1151915725855156), ('loss', 0.10708695522944069)])
+best accuracy 40.93333338419596

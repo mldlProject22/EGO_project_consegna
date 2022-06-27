@@ -1,0 +1,70 @@
+GRID SEARCH
+
+
+2022-06-11 12:17:48.235554
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+accuracy 36.470107919986404
+
+2022-06-11 12:27:48.235554
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+accuracy 36.65220491486897
+params dict_items([('beta', 0.5894499499800222), ('loss', 0.6222033786852744)])
+
+2022-06-11 12:41:13.179560
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+accuracy 36.57406914950169
+params dict_items([('beta', 0.365417623695227), ('loss', 0.2435672048935209)])
+
+2022-06-11 13:06:52.857468
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['Y', 'N', 'N']
+accuracy 37.31681345927414
+params dict_items([('beta', 0.5894499499800222), ('loss', 0.6222033786852744)])
+
+
+
+2022-06-11 13:15:52.962149
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+accuracy 35.262723706510194
+
+2022-06-11 13:38:29.689672
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'Y']
+accuracy 36.74442494072508
+params dict_items([('beta', 0.243762086527013), ('loss', 0.42529438063507563)])
+
+2022-06-11 14:00:10.702614
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'Y', 'N']
+accuracy 36.7666471629473
+params dict_items([('beta', 0.243762086527013), ('loss', 0.42529438063507563)])
+
+
+
+2022-06-13 18:37:37.025876
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+accuracy 41.22147817460317
+params dict_items([('beta', 0.365417623695227), ('loss', 0.2435672048935209)])
+
+2022-06-13 18:45:35.717051
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+accuracy 42.992311507936506
+params dict_items([('beta', 0.365417623695227), ('loss', 0.2435672048935209)])
+
+2022-06-13 18:48:28.284774
+aggregation type avgpool
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+accuracy 35.74032738095238
+params dict_items([('beta', 0.365417623695227), ('loss', 0.2435672048935209)])
+
+2022-06-13 18:52:14.466328
+aggregation type trn-m
+adversarial layers [relation, video, frame] ['N', 'N', 'N']
+accuracy 36.40997023809524
+params dict_items([('beta', 0.365417623695227), ('loss', 0.2435672048935209)])

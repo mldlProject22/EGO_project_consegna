@@ -1,0 +1,28 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+numpy=1.19.1=py38hbc911f0_0
+numpy-base=1.19.1=py38hfa32c7d_0
+opencv=4.4.0=py38_2
+pandas=1.1.1=py38he6710b0_0
+pillow=7.2.0=py38hb39fc2d_0
+pip=20.2.2=py38_0
+protobuf=3.13.0=py38h950e882_0
+py-opencv=4.4.0=py38h23f93f0_2
+python=3.8.5=h1103e12_9_cpython
+python-dateutil=2.8.1=py_0pip install torch===1.4.0 torchvision===0.5.0 -f https://download.pytorch.org/whl/torch_stable.html
+python_abi=3.8=1_cp38
+pytorch=1.6.0=py3.8_cuda10.1.243_cudnn7.6.3_0
+pyyaml=5.3.1=py38h7b6447c_1
+scikit-image=0.17.2=py38hdf5156a_0
+scikit-learn=0.23.2=py38h0573a6f_0
+scipy=1.5.2=py38h0b6359f_0
+setuptools=49.6.0=py38_0
+six=1.15.0=py_0
+sqlite=3.33.0=h62c20be_0
+tensorboardx=2.1=py_0
+toolz=0.11.1=pyhd3eb1b0_0
+torchvision=0.7.0=py38_cu101
+tornado=6.0.4=py38h1e0a361_1
+tqdm=4.48.2=py_0
+wheel=0.35.1=py

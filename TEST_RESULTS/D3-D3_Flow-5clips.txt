@@ -1,0 +1,8 @@
+Testing Results:
+Verb Prec@1	55.236%
+Verb Prec@5	98.768%
+Prec@1	55.236%
+Prec@5	98.768%
+Class accuracies
+[44.39834025 50.         53.92156863 18.30985915 84.08163265 55.17241379
+  0.         20.        ]
