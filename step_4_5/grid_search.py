@@ -256,9 +256,9 @@ def validate(model, criterion, num_class,domain_shift):  #val_loader sarà datal
    
 
     # add dummy tensors to keep the same batch size for each epoch (for the last epoch)
-    if batch_val_ori < args.batch_size:
-      val_data_dummy = torch.zeros(args.batch_size - batch_val_ori, val_size_ori[1], val_size_ori[2])
-      val_data = torch.cat((val_data, val_data_dummy))
+  #  if batch_val_ori < args.batch_size:
+  #    val_data_dummy = torch.zeros(args.batch_size - batch_val_ori, val_size_ori[1], val_size_ori[2])
+  #    val_data = torch.cat((val_data, val_data_dummy))
 
 
     val_label_verb = val_label.cuda(non_blocking=True)
